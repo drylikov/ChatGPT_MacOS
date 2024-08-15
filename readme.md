@@ -11,7 +11,7 @@ A React Native MacOS demo for ChatGPT client
 Clone this repository.
 
 ```
-git clone https://github.com/ozgrozer/chatgpt-macos.git
+git clone https://github.com/drylikov/chatgpt-macos.git
 ```
 
 Install dependencies and initialize macos.
