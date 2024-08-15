@@ -1,4 +1,4 @@
-# chatgpt-macos
+# ChatGPT_MacOS
 
 A React Native MacOS demo for ChatGPT client
 
